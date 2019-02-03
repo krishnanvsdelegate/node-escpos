@@ -8,7 +8,6 @@ exports.Network = require('./adapter/network');
  * Printer Supports
  */
 exports.Image    = require('./image');
-exports.Server   = require('./server');
 exports.Printer  = require('./printer');
 exports.Screen  = require('./screen');
 exports.Adapter  = require('./adapter');
