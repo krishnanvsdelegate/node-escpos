@@ -29,17 +29,16 @@
   "homepage": "https://github.com/song940/node-escpos#readme",
   "dependencies": {
     "iconv-lite": "*",
-    "mutable-buffer": "^2.0.3"
+    "mutable-buffer": "^2.0.3",
+    "react-native-tcp": "",
+    "util": "",
+    "events": ""
   },
   "optionalDependencies": {
     "get-pixels": "*",
-    "qr-image": "*",
-    "usb": "*"
+    "qr-image": "*"
   },
   "devDependencies": {
     "mocha": "*"
-  },
-  "engines": {
-    "node": ">=8.x"
   }
 }
