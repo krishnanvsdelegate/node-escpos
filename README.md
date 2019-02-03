@@ -24,6 +24,11 @@ if you use usb as an adapter :
 
 Otherwise you will get `LIBUSB_ERROR_NOT_SUPPORTED` when attempting to open devices.
 
+### Post installation
+```bash
+$ react-native link react-native-tcp
+```
+
 ## Example
 
 ````javascript
