@@ -1,6 +1,10 @@
 'use strict';
+// react-native-tcp  :   https://github.com/PeelTechnologies/react-native-tcp
 const net           = require('net');
+// https://github.com/defunctzombie/node-util
 const util          = require('util');
+// https://github.com/facebook/react-native/issues/1058
+// https://github.com/Gozala/events#readme
 const EventEmitter  = require('events');
 /**
  * Network Adapter
