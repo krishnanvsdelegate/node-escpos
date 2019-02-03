@@ -2,9 +2,7 @@
 /**
  * Adapters
  */
-exports.USB     = require('./adapter/usb');
 exports.Network = require('./adapter/network');
-exports.Console = require('./adapter/console');
 
 /**
  * Printer Supports
