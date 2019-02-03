@@ -1,6 +1,6 @@
 'use strict';
 // react-native-tcp  :   https://github.com/PeelTechnologies/react-native-tcp
-const net           = require('net');
+const net           = require('react-native-tcp');
 // https://github.com/defunctzombie/node-util
 const util          = require('util');
 // https://github.com/facebook/react-native/issues/1058
