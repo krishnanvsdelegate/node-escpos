@@ -34,7 +34,8 @@
   "optionalDependencies": {
     "get-pixels": "*",
     "qr-image": "*",
-    "usb": "*"
+    "usb": "*",
+    "node-bluetooth": "*"
   },
   "devDependencies": {
     "mocha": "*"
